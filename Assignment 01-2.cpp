@@ -13,7 +13,9 @@ int main()
 		}
 }
 
-// Console Output is
-// k = 3
-// k = 6
-// k = 9
+/*
+Conole output is
+k = 3
+k = 6
+k = 9
+*/
